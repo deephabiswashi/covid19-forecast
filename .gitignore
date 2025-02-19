@@ -1,0 +1,18 @@
+# Ignore macOS system file
+.DS_Store
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore your local virtual environment
+venv1/
+
+# Ignore data folder if you don't want to push large datasets
+Datasets/
+
+# If using an IDE like PyCharm, ignore the .idea folder
+.idea/
