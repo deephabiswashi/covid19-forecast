@@ -134,5 +134,5 @@ source venv/bin/activate    # On Windows: venv\Scripts\activate
 <hr style="border: 1px solid #ccc; margin: 20px 0;" />
 
 <p style="text-align:center;">
-  <em>Made with ❤️ by &lt;YOUR NAME&gt;</em>
+  <em>Made with ❤️ by &lt;Deep Habiswashi&gt;</em>
 </p>
